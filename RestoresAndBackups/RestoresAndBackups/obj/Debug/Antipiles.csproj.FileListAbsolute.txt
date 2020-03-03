@@ -1,0 +1,42 @@
+C:\Users\valer\source\repos\Antipiles\Antipiles\bin\Debug\Antipiles.exe.config
+C:\Users\valer\source\repos\Antipiles\Antipiles\bin\Debug\Antipiles.exe
+C:\Users\valer\source\repos\Antipiles\Antipiles\bin\Debug\Antipiles.pdb
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\MainWindow.g.cs
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\PathChoiceControl.g.cs
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\App.g.cs
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles_MarkupCompile.cache
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles_MarkupCompile.lref
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\UIResourceDictionary.baml
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\MainWindow.baml
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\PathChoiceControl.baml
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.g.resources
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.Properties.Resources.resources
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.csproj.GenerateResource.cache
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.exe
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.pdb
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\Antipiles.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\ProgressBar.g.cs
+C:\Users\valer\source\repos\Antipiles\Antipiles\obj\Debug\View\ProgressBar.baml
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\bin\Debug\Antipiles.exe.config
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\bin\Debug\Antipiles.exe
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\bin\Debug\Antipiles.pdb
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.csprojAssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\MainWindow.g.cs
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\PathChoiceControl.g.cs
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\ProgressBar.g.cs
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\App.g.cs
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles_MarkupCompile.cache
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles_MarkupCompile.lref
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\UIResourceDictionary.baml
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\MainWindow.baml
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\PathChoiceControl.baml
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\View\ProgressBar.baml
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.g.resources
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.Properties.Resources.resources
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.exe
+C:\Users\valer\OneDrive\Рабочий стол\Development\SeriousDev\Antipiles\Antipiles\obj\Debug\Antipiles.pdb
